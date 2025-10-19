@@ -1,4 +1,4 @@
-# 🖥️ Linux System Monitoring Tool (Bash Script)
+es# 🖥️ Linux System Monitoring Tool (Bash Script)
 
 A lightweight **system monitoring tool** built entirely using **Bash scripting**.  
 It provides real-time insights into CPU usage, memory utilization, disk usage, running processes, and network statistics — directly from your terminal.
@@ -42,7 +42,7 @@ chmod +x system-monitoring-tool.sh
 
 ```perl
 linux-system-monitor/
-├── system_monitor.sh     # Main monitoring script
+├── system-monitoring-tool.sh     # Main monitoring script
 ├── README.md             # Project documentation
 └── LICENSE               # License (optional)
 ```
